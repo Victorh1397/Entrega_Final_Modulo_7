@@ -1,0 +1,1 @@
+Asignación Módulo 7 - Modelos de generación de imágenes
