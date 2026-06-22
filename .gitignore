@@ -1,0 +1,26 @@
+# Entornos virtuales
+venv/
+
+# Variables de entorno y credenciales
+.env
+
+# Archivos pesados del modelo generado y pesos
+modelo_generador_v1/
+*.safetensors
+*.bin
+*.ckpt
+*.pt
+*.msgpack
+*.h5
+
+# Archivos temporales de Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Caché compilada de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
